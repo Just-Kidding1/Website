@@ -1,7 +1,7 @@
 function Button(){
     let button = document.getElementById("button0");
-firstName =  Jason ;
-companyName =  Neutral ;
-alert(`${firstName} works at ${companyName}.`);
-//returns “Michael works at Dunder Mifflin.”
+    Name1 =  'Jason' ;
+    Name2 =  'Kevin' ;
+    alert(`this was created by ${Name1} and ${Name2}.`);
+//returns “Jason works for Dunder Neutral.”
 }
